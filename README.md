@@ -110,6 +110,9 @@ See the next section.
 Requirement analysis · Data cleaning · KPI design · PivotTables · Data visualisation · Dashboarding · Business insight generation
 
 ---
+## Architecture Diagram
+![Blinkit Architecture](diagram%20(3).png)
+
 
 **Author:** Astha Kumari Jha
 **GitHub:** [github.com/Asthajha4275](https://github.com/Asthajha4275)# blinkit-Analysis-Dashboard
